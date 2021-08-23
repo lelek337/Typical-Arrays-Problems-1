@@ -37,4 +37,3 @@ exports.avg = function avg(array) {
     newAvg = sum / array.length;
     return newAvg;
 };
-console.log(console.log());
